@@ -2,11 +2,16 @@
 
 Whilst you're here, feel free to use my code as reference for when you are stuck, or simply to benchmark the elegance of your solution.
 It is important to note that for the more lazy of you, this repository can be used as a tool of harm, rather than for the good. Don't do the former. Instead, let this be constructive in helping you think through your solutions.
-If Lu ever suspects someone is doing mindless copying from this repo, I am making it private without question.
+If Mr. Lu (who will probably read this late November) ever suspects someone is doing mindless copying from this repo, I am making it private without question.
 
 If you need help with concepts or assignments beyond simply scrolling through reference code, DM me on Discord and I will most likely help but that depends on my opinion of you.
 
 **You will find the bulk of my work located in Notes/src**
+
+
+
+
+
 
 
 Some disclaimers on tEcHnOlOgY uSe AnD eThIcS:
