@@ -10,6 +10,7 @@ If you need help with concepts or assignments beyond simply scrolling through re
 
 
 Some disclaimers on tEcHnOlOgY uSe AnD eThIcS:
+
 The intention of this repository is to help others think through problems by providing a single, centralized source of most problems assigned in class.
 Whilst I acknowledge the risk of blatant, mindless acts of copying, it is by no means the purpose of this repository.
 I made this repository to assist others with the goal of saving most of everyone's time and to provide constructive support for those who need it.
